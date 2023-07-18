@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eros5
 - 👀 I’m interested in ... many things! Learning to code! Cloud! Security :) ... Psychology
-- 🌱 I’m currently learning ... JS via OdinProject ++ AWS ++ Azure
-- 💞️ I’m looking to collaborate on ... any projects that contribute experience to my interests and my growth
+- 🌱 I’m currently learning ... Responsive web design via freeCodeCamp ++ Security via ISC and EC Council ++ Azure Admin Asc
+- 💞️ I’m looking to collaborate on ... Security projects, and foundational web development and UI projects
 - 📫 How to reach me ... here ++ linkedIn ++ insta/eros5_git
 
 <!---
